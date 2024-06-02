@@ -8,7 +8,7 @@
 - Window 10 more
 - If it is lower than Windows 10, please request it from me separately.
 
-[Recommended :: Window]
+[Recommended :: Mac]
 - 10.15 and above
 
 [Recommended :: Linux]
