@@ -1,0 +1,44 @@
+{
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "beforeBuildCommand": "npm run build",
+    "devPath": "http://localhost:1420",
+    "distDir": "../dist"
+  },
+  "package": {
+    "productName": "poke-rogue-play",
+    "version": "0.0.1"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "shell": {
+        "all": false,
+        "open": true
+      }
+    },
+    "windows": [
+      {
+        "title": "poke-rogue-play",
+        "width": 600,
+        "height": 300
+      }
+    ],
+    "security": {
+      "csp": null
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "com.tauri.pokerogueplay",
+      "icon": [
+        "icons/PR-64x64.png",
+        "icons/PR-128x128.png",
+        "icons/PR-256x256.png",
+        "icons/PR.icns",
+        "icons/PR.ico",
+        "icons/PR.png"
+      ]
+    }
+  }
+}
