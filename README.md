@@ -1,6 +1,6 @@
 # Poket Rogue PC
 
-> Just go to the Releases tab, download it according to your OS, and run it.
+> download it according to your OS, and run it.
 
 ## Ready OS
 ```
