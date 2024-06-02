@@ -1,7 +1,22 @@
-# Tauri + Vue 3
+# Poket Rogue PC
 
-This template should help get you started developing with Tauri + Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> Just go to the Releases tab, download it according to your OS, and run it.
 
-## Recommended IDE Setup
+## Ready OS
+```
+[Recommended :: Window]
+- Window 10 more
+- If it is lower than Windows 10, please request it from me separately.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+[Recommended :: Window]
+- 10.15 and above
+
+[Recommended :: Linux]
+- There are currently no plans to provide it separately.
+```
+
+## Go To Download
+
+- Window [msi](https://github.com/wonkyungup/poketRoguePc/releases/download/v0.0.1/PoketRogue-pc_0.0.1_x64_en-US.msi)
+- Window [exe](https://github.com/wonkyungup/poketRoguePc/releases/download/v0.0.1/PoketRogue-pc_0.0.1_x64-setup.exe)
+- Mac [dmg](https://github.com/wonkyungup/poketRoguePc/releases/download/v0.0.1/PoketRogue-pc_0.0.1_x64.dmg)
