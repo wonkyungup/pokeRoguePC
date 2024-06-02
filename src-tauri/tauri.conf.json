@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "poke-rogue-play",
+    "productName": "PoketRogue-pc",
     "version": "0.0.1"
   },
   "tauri": {
@@ -19,7 +19,7 @@
     },
     "windows": [
       {
-        "title": "poke-rogue-play",
+        "title": "PoketRogue-pc",
         "width": 600,
         "height": 300
       }
