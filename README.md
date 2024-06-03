@@ -21,3 +21,4 @@
 - Window [msi](https://github.com/wonkyungup/pokeRoguePc/releases/download/v0.0.1/pokeRogue-pc_0.0.1_x64_en-US.msi)
 - Window [exe](https://github.com/wonkyungup/pokeRoguePc/releases/download/v0.0.1/pokeRogue-pc_0.0.1_x64-setup.exe)
 - Mac [dmg](https://github.com/wonkyungup/pokeRoguePc/releases/download/v0.0.1/pokeRogue-pc_0.0.1_x64.dmg)
+- Mac [m1](https://github.com/wonkyungup/pokeRoguePc/releases/download/v0.0.1/pokeRogue-pc_0.0.1_aarch64.dmg)
