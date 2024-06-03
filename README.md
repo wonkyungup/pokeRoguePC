@@ -1,8 +1,9 @@
-# Poket Rogue PC
+# poke Rogue PC
 
 > download it according to your OS, and run it.
 
 ## Ready OS
+
 ```
 [Recommended :: Window]
 - Window 10 more
@@ -17,6 +18,6 @@
 
 ## Go To Download
 
-- Window [msi](https://github.com/wonkyungup/poketRoguePc/releases/download/v0.0.1/PoketRogue-pc_0.0.1_x64_en-US.msi)
-- Window [exe](https://github.com/wonkyungup/poketRoguePc/releases/download/v0.0.1/PoketRogue-pc_0.0.1_x64-setup.exe)
-- Mac [dmg](https://github.com/wonkyungup/poketRoguePc/releases/download/v0.0.1/PoketRogue-pc_0.0.1_x64.dmg)
+- Window [msi](https://github.com/wonkyungup/pokeRoguePc/releases/download/v0.0.1/pokeRogue-pc_0.0.1_x64_en-US.msi)
+- Window [exe](https://github.com/wonkyungup/pokeRoguePc/releases/download/v0.0.1/pokeRogue-pc_0.0.1_x64-setup.exe)
+- Mac [dmg](https://github.com/wonkyungup/pokeRoguePc/releases/download/v0.0.1/pokeRogue-pc_0.0.1_x64.dmg)
