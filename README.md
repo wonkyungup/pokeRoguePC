@@ -1,6 +1,6 @@
 # poke Rogue PC
 
-> download it according to your OS, and run it.
+> download it according to your OS, and run it. umm
 
 ## Ready OS
     
